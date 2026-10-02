@@ -121,7 +121,7 @@ This is the test-bed idea at its purest: repeatable trials with a clear reward s
 | Evaluating agents | Real-world lessons on evaluating agentic systems at Amazon | [Evaluating AI agents: Real-world lessons from building agentic systems at Amazon](https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-real-world-lessons-from-building-agentic-systems-at-amazon/) |
 | Simulated users for evaluation | Simulate realistic users to evaluate multi-turn agents with Strands Evals | [Simulate realistic users to evaluate multi-turn AI agents in Strands Evals](https://aws.amazon.com/blogs/machine-learning/simulate-realistic-users-to-evaluate-multi-turn-ai-agents-in-strands-evals/) |
 | Scalable tool testing | Use ToolSimulator to test agent tool use at scale | [ToolSimulator: Scalable tool testing for AI agents](https://aws.amazon.com/blogs/machine-learning/toolsimulator-scalable-tool-testing-for-ai-agents/) |
-| Spatial simulations | Build spatial simulations with generative agents on Amazon Bedrock AgentCore | [Building spatial simulations with generative agents using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/spatial/building-spatial-simulations-with-generative-agents-using-amazon-bedrock-agentcore/) |
+| Spatial simulations | Build spatial simulations with generative agents on Amazon Bedrock AgentCore | [Building spatial simulations with generative agents using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/physical-ai/building-spatial-simulations-with-generative-agents-using-amazon-bedrock-agentcore/) |
 
 ## Reference
 
